@@ -8,7 +8,7 @@
 ## Contact
 - 🌐 [Plenix.net](https://plenix.net)
 - 📧 [Email](mailto:alex@plenix.net)
-- 
+
 ---
 
 ## GitHub Stats
