@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Alex 👋
 
-<!--
-**alexasecas/alexasecas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🌐 Fundador de [Plenix.net](https://plenix.net).
 
-Here are some ideas to get you started:
+## Tecnologías y Herramientas
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contacto
+- 🌐 [Plenix.net](https://plenix.net)
+- 📧 [Email](mailto:alex@plenix.net)
+
+## GitHub Stats
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alexasecas&show_icons=true&theme=radical)
+
+## Lenguajes Más Usados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexasecas&layout=compact&theme=radical)
+
+---
+
